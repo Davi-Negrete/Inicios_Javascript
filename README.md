@@ -1,8 +1,8 @@
-# Desafío-07-Inicios-Javascript
+## Desafío-07-Inicios-Javascript
 
 ## Nombre : Luis David Negrete Otero
 
-## Repositorio de GIT: 
+### Repositorio de GIT: https://github.com/Davi-Negrete/Inicios_Javascript
 
 ### Enunciados
 
