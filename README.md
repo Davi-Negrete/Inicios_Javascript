@@ -29,3 +29,5 @@
 11. Condicional if-else: Pide al usuario su edad y determina si es mayor o menor de edad.
 
 12. Condicional switch: Pide al usuario un número del 1 al 7 y muestra el día de la semana correspondiente.
+
+0. (Esta frase es para un tercer commit de prueba 'Ignorar')
